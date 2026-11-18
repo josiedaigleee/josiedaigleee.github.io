@@ -1,0 +1,27 @@
+title: Josephine Daigle
+description: Geography | GIS | Urban Planning
+remote_theme: pages-themes/architect
+
+# Enable GitHub Pages plugin
+plugins:
+  - pages-themes/architect
+  
+
+# Set navigation order
+nav_order: 1
+
+# Add your navigation structure (optional override)
+nav:
+  - title: "Home"
+    url: /
+  - title: "About Me"
+    url: /about
+  - title: "Projects"
+    url: /projects
+  - title: "Contact"
+    url: /contact
+
+# Optional extras
+color_scheme: light
+logo: /assets/logo.png
+search_enabled: true
